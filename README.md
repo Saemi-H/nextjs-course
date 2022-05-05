@@ -3,3 +3,7 @@ NextJs = SSR.
 style convention = global style (only for global in _app). Usually use [componen].module.css
 Route = files in pages (lower case)
 component = Upper case
+
+
+#
+https://www.youtube.com/watch?v=mTz0GXj8NN0&ab_channel=TraversyMedia
