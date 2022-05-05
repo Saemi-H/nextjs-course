@@ -36,3 +36,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 # next-crash-course
 # next-crash-course
 # next-crash-course
+# nextjs-course
