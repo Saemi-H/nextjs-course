@@ -1,8 +1,15 @@
 import React from 'react'
 
-const Layout = () => {
+import styles from "../styles/Layout.module.css"
+
+const Layout = ({children}) => {
   return (
-    <div></div>
+    <div className={styles.container}>
+      <main className={styles.main}>
+        <div>Hello</div>
+        {children}
+      </main>
+    </div>
   )
 }
 
