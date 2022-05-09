@@ -3,6 +3,7 @@ import React from 'react'
 import { server } from "../../../config";
 
 import Link from 'next/link'
+import Meta from '../../../components/Meta';
 
 // import { useRouter } from 'next/router'
 
@@ -12,6 +13,7 @@ const article = ({article}) => {
 
   return (
     <>
+    <Meta title={article.title} />
       <h1>{article.title}</h1>
       <p>{article.body}</p>
       <br />
