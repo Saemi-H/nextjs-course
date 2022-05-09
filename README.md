@@ -12,3 +12,6 @@ https://www.youtube.com/watch?v=mTz0GXj8NN0&ab_channel=TraversyMedia
 1. StaticProps : fetching in build in time (fastest)
 2. Server : fetching when we want (less faster than static)
 3. staticPath: combinatiton of static props and serversideprops
+
+#For SEO
+- Add Description & title in Head
